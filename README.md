@@ -13,19 +13,19 @@ This is a Python + MySQL-based project simulating a relocation service company (
 - Menu-driven CLI interface
 
 
-## 📂 Project Structure
+## Project Structure
 
 - `yashvi common project.py` → main Python script for the system
 - Uses `pymysql` to connect to a local MySQL database
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - MySQL (via `pymysql`)
 
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Ensure **MySQL server** is running locally
 2. Install required Python library (if not already installed):
