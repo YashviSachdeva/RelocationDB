@@ -10,7 +10,7 @@ This is a Python + MySQL-based project simulating a relocation service company (
 - Insert, view, update, and delete customer relocation records
 - Join and display combined data from multiple tables
 - Use of foreign keys to link relocation and services data
-- Menu-driven CLI interface
+- Menu-driven interface
 
 
 ## Project Structure
